@@ -1,0 +1,7 @@
+C:\Users\ivanm\source\repos\Zadatak 4\Zadatak 4\obj\Debug\Zadatak 4.csprojAssemblyReference.cache
+C:\Users\ivanm\source\repos\Zadatak 4\Zadatak 4\obj\Debug\Zadatak 4.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\source\repos\Zadatak 4\Zadatak 4\bin\Debug\Zadatak 4.exe.config
+C:\Users\ivanm\source\repos\Zadatak 4\Zadatak 4\bin\Debug\Zadatak 4.exe
+C:\Users\ivanm\source\repos\Zadatak 4\Zadatak 4\bin\Debug\Zadatak 4.pdb
+C:\Users\ivanm\source\repos\Zadatak 4\Zadatak 4\obj\Debug\Zadatak 4.exe
+C:\Users\ivanm\source\repos\Zadatak 4\Zadatak 4\obj\Debug\Zadatak 4.pdb
